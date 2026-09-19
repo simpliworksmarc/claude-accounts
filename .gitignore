@@ -1,0 +1,3 @@
+# Nothing here is generated at run time; runtime files live under the user's profile, not in this folder.
+__pycache__/
+*.bak-*
